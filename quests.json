@@ -1,0 +1,289 @@
+{
+    "perguntas": [
+        [
+            {
+                "quest": "Milos de Crotona desenvolveu um m\u00e9todo de treino com um bezerro,\nque consideramos hoje como um dos \"Princ\u00edpios de treinamento de For\u00e7a\". \nQual \u00e9 esse princ\u00edpio?",
+                "alternativas": [
+                    "[A]Sobrecarga",
+                    "[B]Levantamento de Peso",
+                    "[C]Indivdualidade",
+                    "[D]Resist\u00eanciaa"
+                ],
+                "correct": "A",
+                "util": true
+            },
+            {
+                "quest": "\u00c9 a habilidade de movimentar o corpo ou objeto com rapidez. Conhecido tamb\u00e9m como pot\u00eancia.\" Qual tipo de for\u00e7a est\u00e1 descrito.",
+                "alternativas": [
+                    "[A]Explosiva",
+                    "[B]M\u00e1xima",
+                    "[C]Relativa",
+                    "[D]Acelera\u00e7\u00e3o"
+                ],
+                "correct": "A",
+                "util": true
+            },
+            {
+                "quest": "Sobre a gin\u00e1stica na Gr\u00e9cia Antiga:",
+                "alternativas": [
+                    "[A]A Gr\u00e9cia em nada contribuiu para a Educa\u00e7\u00e3o F\u00edsica",
+                    "[B]Os gregos valorizavam s\u00f3 a gin\u00e1stica militar.",
+                    "[C]Os termos halteres, atleta, gin\u00e1stica, pentatlo, entre outros, s\u00e3o uma heran\u00e7a desse povo",
+                    "[D]Todas est\u00e3o corretas"
+                ],
+                "correct": "C",
+                "util": true
+            },
+            {
+                "quest": "Sobre o M\u00e9todo Alem\u00e3o \u00e9 INCORRETO afirmar:",
+                "alternativas": [
+                    "[A]Tinha car\u00e1ter nacionalista",
+                    "[B]Desprezava a fisiologia como fonte de conhecimento",
+                    "[C]Criava forte esp\u00edrito nacionalista",
+                    "[D]Todas est\u00e3o corretas"
+                ],
+                "correct": "B",
+                "util": true
+            },
+            {
+                "quest": "\u00c9 a quantidade de trabalho realizado, representado peal dura\u00e7\u00e3o e pela frequ\u00eancia das sess\u00f5es.",
+                "alternativas": [
+                    "[A]Pric\u00edpios de sobrecarga",
+                    "[B]Volume",
+                    "[C]Intensidade",
+                    "[D]Princ\u00edpios da Estrutura\u00e7\u00e3o da S\u00e9rie de Exerc\u00edcios"
+                ],
+                "correct": "B",
+                "util": true
+            }
+        ],
+        [
+            {
+                "quest": "\u00c9 o grau de esfor\u00e7o moment\u00e2neo necess\u00e1rio \u00e0 realiza\u00e7\u00e3o de um exerc\u00edcio traduzido pela quantidade de energia utilizada em sua execu\u00e7\u00e3o, representado pelo peso (quilagem) em cada s\u00e9rie e pela dura\u00e7\u00e3o dos intervalos entre as s\u00e9ries.",
+                "alternativas": [
+                    "[A]Intensidade",
+                    "[B]Principios da Sobrecarga",
+                    "[C]Principios da Especifidade do Movimento",
+                    "[D]Princ\u00edpios da Estrutura\u00e7\u00e3o da S\u00e9rie de Exerc\u00edcios"
+                ],
+                "correct": "A",
+                "util": true
+            },
+            {
+                "quest": "Nos seres humanos, a atividade contr\u00e1til do m\u00fasculo resulta primariamente da intera\u00e7\u00e3o de duas prote\u00ednas denominadas:",
+                "alternativas": [
+                    "[A]Queratina e Miosina",
+                    "[B]Actina e Miosina",
+                    "[C]Gastrina e Actina",
+                    "[D]Tripsina e Miosina"
+                ],
+                "correct": "B",
+                "util": true
+            },
+            {
+                "quest": "Os m\u00fasculos estriados esquel\u00e9ticos, assim como qualquer m\u00fasculo, apresentam a capacidade de contra\u00e7\u00e3o. Essa contra\u00e7\u00e3o \u00e9",
+                "alternativas": [
+                    "[A]lenta e involunt\u00e1ria",
+                    "[B]involunt\u00e1ria e r\u00edtmica.",
+                    "[C]lenta e r\u00edtmica.",
+                    "[D]r\u00e1pida e volunt\u00e1ria."
+                ],
+                "correct": "D",
+                "util": true
+            },
+            {
+                "quest": "Um nadador que atravessa do Marco Zero do Recife at\u00e9 o Parque de escultura de Francisco Brennand (ponto tur\u00edstico) em 15 segundos, usou fibras musculares:",
+                "alternativas": [
+                    "[A]Tipo I",
+                    "[B]Tipo II",
+                    "[C]Tipo IIa",
+                    "[D]Nenhuma das respostas anteriores."
+                ],
+                "correct": "D",
+                "util": true
+            },
+            {
+                "quest": "Quais dos m\u00e9todos abaixo n\u00e3o representa uma metodologia de distin\u00e7\u00e3o do tipo de fibra muscular?",
+                "alternativas": [
+                    "[A]Marcador de sensibilidade",
+                    "[B]Eletroforese",
+                    "[C]Imunohistoqu\u00edmica",
+                    "[D]Histoqu\u00edmica"
+                ],
+                "correct": "A",
+                "util": true
+            }
+        ],
+        [
+            {
+                "quest": "Para que serve o esqueleto humano?",
+                "alternativas": [
+                    "[A]Para proteger os m\u00fasculos.",
+                    "[B]Para sustentar o corpo e proteger alguns org\u00e3os.",
+                    "[C]Para fazer muscula\u00e7\u00e3o.",
+                    "[D]Para proteger os tend\u00f5es"
+                ],
+                "correct": "B",
+                "util": true
+            },
+            {
+                "quest": "De quantos ossos \u00e9 constitu\u00eddo o corpo humano aproximadamente?",
+                "alternativas": [
+                    "[A]Aproximadamente 110",
+                    "[B]Aproximadamente 430",
+                    "[C]Aproximadamente 206",
+                    "[D]Aproximadamente 520"
+                ],
+                "correct": "C",
+                "util": true
+            },
+            {
+                "quest": "Estrutura que liga os m\u00fasculos estriados esquel\u00e9ticos aos ossos, chama-se?",
+                "alternativas": [
+                    "[A]Cartilagens",
+                    "[B]Nervos",
+                    "[C]Ligamentos",
+                    "[D]Tend\u00f5es"
+                ],
+                "correct": "D",
+                "util": true
+            },
+            {
+                "quest": "Qual \u00e9 o maior osso do esqueleto humano?",
+                "alternativas": [
+                    "[A]\u00damero",
+                    "[B]T\u00edbia",
+                    "[C]F\u00e9mur",
+                    "[D]R\u00e1dio"
+                ],
+                "correct": "C",
+                "util": true
+            },
+            {
+                "quest": "Os osso s\u00e3o estruturas que fazem parte do nosso sistema locomotor. \u00c9 formado basicamente pelo mineral?",
+                "alternativas": [
+                    "[A]Ferro",
+                    "[B]S\u00f3dio",
+                    "[C]Magn\u00e9sio",
+                    "[D]C\u00e1lcio"
+                ],
+                "correct": "D",
+                "util": true
+            }
+        ],
+        [
+            {
+                "quest": "Qual a alternativa que indica a express\u00e3o que permite calcular o IMC de uma pessoa.",
+                "alternativas": [
+                    "[A]IMC = (idade (anos) x altura (m2) / massa corporal (kg)",
+                    "[B]IMC = massa corporal (kg) / altura (m\u00b2).",
+                    "[C]MC = (massa corporal (kg) x altura (m2) / idade (anos).",
+                    "[D]IMC = altura (m2) / massa corporal (kg)."
+                ],
+                "correct": "D",
+                "util": true
+            },
+            {
+                "quest": "Quais s\u00e3o as duas modalidades que a gin\u00e1stica \u00e9 dividida?",
+                "alternativas": [
+                    "[A]Competitivas e n\u00e3o competitivas",
+                    "[B]Competitivas e Competitivas ao extremo",
+                    "[C]N\u00e3o competitivas e Prazerosa",
+                    "[D]Nenhuma das alternativas"
+                ],
+                "correct": "A",
+                "util": true
+            },
+            {
+                "quest": "A pr\u00e1tica da Gin\u00e1stica existe desde:",
+                "alternativas": [
+                    "[A]Renascimento",
+                    "[B]Idade Moderna",
+                    "[C]Gr\u00e9cia Antiga",
+                    "[D]Nenhuma das alternativas"
+                ],
+                "correct": "A",
+                "util": true
+            },
+            {
+                "quest": "As val\u00eancias f\u00edsicas ou capacidade podem ser definidas como:",
+                "alternativas": [
+                    "[A]Todo atributo f\u00edsico e emocional adquirido pelo homem.",
+                    "[B]Todo atributo psicol\u00f3gico que pode ser treinado pelo indiv\u00edduo",
+                    "[C]Todo atributo mental adquirido pelo homem enquanto ess\u00eancia.",
+                    "[D]Todo atributo f\u00edsico adquirido pelo indiv\u00edduo atrav\u00e9s de treinamento. "
+                ],
+                "correct": "D",
+                "util": true
+            },
+            {
+                "quest": "o sistema digest\u00f3rio, h\u00e1 uma subst\u00e2ncia que \u00e9 produzida pelo f\u00edgado e emulsifica as gorduras. Que subst\u00e2ncia \u00e9 essa? ",
+                "alternativas": [
+                    "[A]Bile.",
+                    "[B]Ves\u00edcula Biliar",
+                    "[C]Suco pancre\u00e1tico.",
+                    "[D]Amilase "
+                ],
+                "correct": "A",
+                "util": true
+            }
+        ],
+        [
+            {
+                "quest": "Quais dessas partes fazem parte do intestino grosso? ",
+                "alternativas": [
+                    "[A]Ceco, Bile e \u00c2nus.",
+                    "[B]Ceco, C\u00f3lon e Reto",
+                    "[C]Ceco, C\u00f3lon e Ap\u00eandice",
+                    "[D]Figado, bile e reto "
+                ],
+                "correct": "B",
+                "util": true
+            },
+            {
+                "quest": "Ap\u00f3s sofrer a a\u00e7\u00e3o dos dentes e se misturar \u00e0 saliva, o alimento passa a ser chamado de: ",
+                "alternativas": [
+                    "[A]Bolo alimentar.",
+                    "[B]Quimo.",
+                    "[C]Amido.",
+                    "[D]Nenhuma das alternativas"
+                ],
+                "correct": "A",
+                "util": true
+            },
+            {
+                "quest": "As fezes s\u00e3o formadas em que por\u00e7\u00e3o do sistema digest\u00f3rio? ",
+                "alternativas": [
+                    "[A]Intestino delgado",
+                    "[B]Est\u00f4mago.",
+                    "[C]Es\u00f4fago.",
+                    "[D]Intestino grosso"
+                ],
+                "correct": "D",
+                "util": true
+            },
+            {
+                "quest": "S\u00e3o componentes do sistema nervoso central? ",
+                "alternativas": [
+                    "[A]Enc\u00e9falo e nervos",
+                    "[B]Nervos e medula espinhal.",
+                    "[C]Medula espinhal e enc\u00e9falo.",
+                    "[D]Medula \u00f3ssea e nervos"
+                ],
+                "correct": "C",
+                "util": true
+            },
+            {
+                "quest": "A bilirrubina \u00e9 gerada a partir da degrada\u00e7\u00e3o de: ",
+                "alternativas": [
+                    "[A]\u00c1cidos graxos",
+                    "[B]Hem\u00e1cias",
+                    "[C]Plasma",
+                    "[D]Carboidratos"
+                ],
+                "correct": "B",
+                "util": true
+            }
+        ]
+    ]
+}
